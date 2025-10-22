@@ -12,6 +12,9 @@
 ![Docker Container Screenshot](image-1.png)
 ![Container Log Images](image-2.png)
 
+## Video Link
+https://drive.google.com/file/d/1AmueuOuOmS8_5Pay6dBYHN3K6QCsyij8/view?usp=sharing
+
 ## Challenges 
 The one challenge I faced during this module was working with dockers and how to properly work with the command in particular:
  docker run -v ./qr_codes:/app/qr_codes fahadali323/qrcode_maker 
