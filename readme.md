@@ -1,10 +1,10 @@
 # Module 7 
 
 ## Github Repository 
-![Github Repo](qr_codes\QRCode_20251022034647.png "My QR Code Link" )
+![Github Repo](qr_codes/QRCode_20251022034647.png "My QR Code Link" )
 
 ## My DockerHub Image
-![Docker QR Image](qr_codes\QRCode_20251022034557.png "My QR Code Link")
+![Docker QR Image](qr_codes/QRCode_20251022034557.png "My QR Code Link")
 
 
 ## Submissions Images
